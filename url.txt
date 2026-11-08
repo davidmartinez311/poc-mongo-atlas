@@ -1,0 +1,1 @@
+MONGODB_URI=mongodb+srv://distrisalva_app:FZQp0BLHfExyU4hj@cluster0.gparl7r.mongodb.net/;GOOGLE_APPLICATION_CREDENTIALS=C:\Users\Lab3\claves\distrisalva-app.json
