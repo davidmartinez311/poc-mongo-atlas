@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "distrisalva-2713522025",
+  "private_key_id": "eb5f78999b665657527adc99092b09f51b96a5bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBG841UcL9hmOx\nwGDsdwcQV+A+yHx34L4KgytUPRaQm01FMOA189L+ccaOIngc1XPNLiSUfiiXf8tX\nFIywQ+nEQk/n/ic8JatxMqNKbGASX+t04U6TnnXJ8c5s5RP9DmMLiVgBufUtdesY\nnsKLvN0A/c7Lt5w0sMDi8SUvYdDqMRM5POOmKmpHM8dp4UpA4hR7XbgPE/kjMeVR\nNg5svjZiDtkiI0GiFGz+RUQ0sBO2KcXeWP4SkJ7TemI9TUKvoPsi3cVtyy0huOAh\niUWxXvsnCeTzHewZqfOHDKchWlHI9bBhiPC+665jScYF9O4bWQl3z9ouWpLfl60N\nhwHtjyi3AgMBAAECggEABtPiBMOZIS1NEr3/ufdJZ3wGleGxI5dC0OIAuFqX6iam\nOEHj+N8KlkF/6OBHc+mIzc00W5Bhr12ZhcDYapZeymLNKswzJ0QZCDMR+px+AcL6\nHb37m7+OCu+tl0RljQcjBwePoNv/fbXTc/blCltz9Z2DtXM5UX7wYEsbaqNK54TN\n5TqD6F2ZcMTLtVTdFF4nnAX/lIrbgAKUlpY2SVaqfdguGMJ1kw5gv6gkHHJegQFY\nZdyoZKG1PM6VojPI/bm+xONSsQockGuhZYHDklXxnFITDYgLb636afaRDEetRK+f\nLzB6n6wpmwUhX27SCts5zrF2swjq6mWehKbfVORywQKBgQDzJbCxNYgSExwXPatn\nghSiuW6pLrUb34rhbvC+pDkSBjJnu4YqBxQKn4wSYfhFCdOE4sJn37QDNnIwQ3Bt\nDjgAlQjzGwXJ1316ynUK8R/68KyPOJHwL5RNDLeY/+AlTJNybhXEgi6TCoNomcsm\n4KTASEhDWDPzWjniEjLSDowvQQKBgQDLUPv4FT+KtRHor/yJw+CKnT4dA2r+dawk\nQR8LX0/RRuNH4rHTU8i+EHqm4pepxLbhC4cqPxO3Ar+PtG9iB9qblPviw18lU2Fd\nqkCm77t2UqU3R6MYprONZ8rOlcTocgwxTbGdUKFYft1DtefOX19PEYXaEEmA3Wo2\nfEVUTNpR9wKBgGny2WxOZC1kEFB8Oc0PnIhPfs3PoXE01iJnIhYgHxIgiyQyTULQ\n9MWwQevcrr7+iiGUYZu7mYfw2I75Q+rxUCvIxS6RbtNFx9KSl6+d5A6Hgtmhj832\nHYv5Z6MOlBAMrw8ksu1+wGaoJRyWLzSQnJmApaRascBvZ1uADI8FccZBAoGATw/9\n+7nfjMPe4/pTnQsDrUN6XPPwTmVZ/HsqZFS7CCmlxlV8Sy6AmJB18aGZ0pXBe//s\nntwKgZdbALnsulVNiETGMqdAv5YN/ctv+rqszlVTFA0SekqQ9gMPlYgeGzoGTcHl\nuMQbCfvDdUoui00BFhE9WNAOlUMEw41NtHtyRn8CgYB5SM6xZsdSo4VmLUAlU66F\nYL83HU7zgwYHcZqpXttV0yVU1zvgeyjRAol4m1iIxmgpE/jGYO8ZLKezGeQOSJv/\nJW8mcOG1jx88TCioxSDZgXlJ4eUKK5hpAj1sG1QvbC5nztd3bOUsigfKtsJ7D7U6\nNp0PpJ+K9ysM7TeW+f/ZXQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "distrisalva-app@distrisalva-2713522025.iam.gserviceaccount.com",
+  "client_id": "104315035627832960823",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/distrisalva-app%40distrisalva-2713522025.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
